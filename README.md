@@ -1,3 +1,1 @@
-# BuckthronInc.github.io 
-
-web
+# BuckthornInc.github.io 
