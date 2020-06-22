@@ -1,11 +1,11 @@
 {
-    "name": "official buckthron",
-    "short_name": "official buckthron",
+    "name": "official buckthorn",
+    "short_name": "official buckthorn",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#12171a",
     "theme_color": "#12171a",
-    "description": "official buckthron website",
+    "description": "official buckthorn inc github webpage.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
