@@ -1,11 +1,11 @@
 {
-    "name": "official buckthorn",
-    "short_name": "official buckthorn",
+    "name": "Buckthorn Dev",
+    "short_name": "Buckthorn",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#12171a",
     "theme_color": "#12171a",
-    "description": "official buckthorn inc github webpage.",
+    "description": "Buckthorn dev official website.`solutions for next planet`",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
